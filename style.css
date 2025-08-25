@@ -4,6 +4,7 @@ body {
   background-size: 100%;
   text-align: center;
   font-family: Arial, sans-serif;
+  font-size: 25px;      /* ukuran teks */
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -52,6 +53,7 @@ footer {
   padding: 8px 15px;           /* jarak dalam kotak */
   text-decoration: none;       /* hilangin underline */
   font-weight: bold;           /* teks tebal */
+  font-size: 25px;      /* ukuran teks */
   border-radius: 5px;          /* sudut kotak melengkung */
 }
 
@@ -68,6 +70,7 @@ footer {
   color: white;                /* teks putih */
   padding: 8px 15px; 
   text-decoration: none;       /* hilangin underline */
+  font-size: 25px;      /* ukuran teks */
   font-weight: bold;           /* teks tebal */
   border-radius: 5px;          /* sudut kotak melengkung */
 }
@@ -85,6 +88,7 @@ footer {
   color: rgb(255, 0, 234);                /* teks putih */
   padding: 8px 15px; 
   text-decoration: none;       /* hilangin underline */
+  font-size: 25px;      /* ukuran teks */
   font-weight: bold;           /* teks tebal */
   border-radius: 5px;          /* sudut kotak melengkung */
 }
@@ -102,6 +106,7 @@ footer {
   color: rgb(255, 255, 255);                /* teks putih */
   padding: 8px 15px; 
   text-decoration: none;       /* hilangin underline */
+  font-size: 25px;      /* ukuran teks */
   font-weight: bold;           /* teks tebal */
   border-radius: 5px;          /* sudut kotak melengkung */
 }
@@ -119,6 +124,7 @@ footer {
   color: rgb(55, 0, 255);                /* teks putih */
   padding: 8px 15px; 
   text-decoration: none;       /* hilangin underline */
+  font-size: 25px;      /* ukuran teks */
   font-weight: bold;           /* teks tebal */
   border-radius: 5px;          /* sudut kotak melengkung */
 }
@@ -136,6 +142,7 @@ footer {
   color: rgb(255, 255, 255);                /* teks putih */
   padding: 8px 15px; 
   text-decoration: none;       /* hilangin underline */
+  font-size: 25px;      /* ukuran teks */
   font-weight: bold;           /* teks tebal */
   border-radius: 5px;          /* sudut kotak melengkung */
 }
