@@ -1,0 +1,165 @@
+body {
+  background-color: #9c9999;
+  background-image: url(backgroundbiru.png);
+  background-size: 100%;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+header {
+  background: #f54b21;
+  background-image: url(backgroundmerah.png);
+  background-size: 100%;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+}
+
+nav a {
+  margin: 0 15px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+}
+
+footer {
+  background: #000000;
+  color: rgb(251, 255, 0);
+  background-image: url(backgroundhitam.png);
+  background-size: 100%;
+  text-align: center;
+  padding: 15px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.left-text {
+  text-align: left;
+  margin-left: 50px; /* biar ada jarak dari tepi */
+}
+
+.youtube-link {
+  display: inline-block;       /* biar kotaknya ngikut teks */
+  border: 2px solid red;       /* garis tepi merah */
+  background: red;             /* isi kotak merah */
+  color: white;                /* teks putih */
+  padding: 8px 15px;           /* jarak dalam kotak */
+  text-decoration: none;       /* hilangin underline */
+  font-weight: bold;           /* teks tebal */
+  border-radius: 5px;          /* sudut kotak melengkung */
+}
+
+.youtube-link:hover {
+  background: darkred;         /* efek saat hover */
+  border-color: darkred;
+}
+
+.Tiktok-link {
+  text-align: left;
+  display: inline-block;       /* biar kotaknya ngikut teks */
+  border: 2px solid rgb(0, 0, 0);       /* garis tepi merah */
+  background: rgb(0, 0, 0);             /* isi kotak merah */
+  color: white;                /* teks putih */
+  padding: 8px 15px; 
+  text-decoration: none;       /* hilangin underline */
+  font-weight: bold;           /* teks tebal */
+  border-radius: 5px;          /* sudut kotak melengkung */
+}
+
+.Tiktok-link:hover {
+  background: rgb(43, 42, 42);         /* efek saat hover */
+  border-color: rgb(39, 38, 38);
+}
+
+.instagram-link {
+  text-align: left;
+  display: inline-block;       /* biar kotaknya ngikut teks */
+  border: 2px solid rgb(61, 59, 59);       /* garis tepi merah */
+  background: rgb(255, 255, 255);             /* isi kotak merah */
+  color: rgb(255, 0, 234);                /* teks putih */
+  padding: 8px 15px; 
+  text-decoration: none;       /* hilangin underline */
+  font-weight: bold;           /* teks tebal */
+  border-radius: 5px;          /* sudut kotak melengkung */
+}
+
+.instagram-link:hover {
+  background: rgb(247, 133, 148);         /* efek saat hover */
+  border-color: rgb(60, 94, 245);
+}
+
+.saluran-link {
+  text-align: left;
+  display: inline-block;       /* biar kotaknya ngikut teks */
+  border: 2px solid rgb(255, 255, 255);       /* garis tepi merah */
+  background: rgb(0, 255, 0);             /* isi kotak merah */
+  color: rgb(255, 255, 255);                /* teks putih */
+  padding: 8px 15px; 
+  text-decoration: none;       /* hilangin underline */
+  font-weight: bold;           /* teks tebal */
+  border-radius: 5px;          /* sudut kotak melengkung */
+}
+
+.saluran-link:hover {
+  background: rgb(140, 253, 102);         /* efek saat hover */
+  border-color: rgb(255, 255, 255);
+}
+
+.saweria-link {
+  text-align: left;
+  display: inline-block;       /* biar kotaknya ngikut teks */
+  border: 2px solid rgb(255, 255, 255);       /* garis tepi merah */
+  background: rgb(255, 123, 0);             /* isi kotak merah */
+  color: rgb(55, 0, 255);                /* teks putih */
+  padding: 8px 15px; 
+  text-decoration: none;       /* hilangin underline */
+  font-weight: bold;           /* teks tebal */
+  border-radius: 5px;          /* sudut kotak melengkung */
+}
+
+.saweria-link:hover {
+  background: rgb(255, 0, 0);         /* efek saat hover */
+  border-color: rgb(17, 0, 255);
+}
+
+.Survey-req {
+  text-align: left;
+  display: inline-block;       /* biar kotaknya ngikut teks */
+  border: 2px solid rgb(255, 255, 255);       /* garis tepi merah */
+  background: rgb(25, 0, 255);             /* isi kotak merah */
+  color: rgb(255, 255, 255);                /* teks putih */
+  padding: 8px 15px; 
+  text-decoration: none;       /* hilangin underline */
+  font-weight: bold;           /* teks tebal */
+  border-radius: 5px;          /* sudut kotak melengkung */
+}
+
+.Survey-req:hover {
+  background: rgb(255, 94, 0);         /* efek saat hover */
+  border-color: rgb(17, 0, 255);
+}
+
+nav ul {
+  list-style: none;        /* hilangin bullet */
+  padding: 0;
+}
+
+nav ul li {
+  margin: 5px 0;
+}
+
+nav ul li a {
+  text-decoration: none;   /* hilangin garis bawah */
+  color: rgb(0, 0, 0);
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
