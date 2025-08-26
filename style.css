@@ -47,7 +47,7 @@ footer {
 
 .youtube-link {
   display: inline-block;       /* biar kotaknya ngikut teks */
-  border: 2px solid red;       /* garis tepi merah */
+  border: 2px solid rgb(0, 0, 0);       /* garis tepi merah */
   background: red;             /* isi kotak merah */
   color: white;                /* teks putih */
   padding: 8px 15px;           /* jarak dalam kotak */
@@ -65,7 +65,7 @@ footer {
 .Tiktok-link {
   text-align: left;
   display: inline-block;       /* biar kotaknya ngikut teks */
-  border: 2px solid rgb(0, 0, 0);       /* garis tepi merah */
+  border: 2px solid rgb(255, 255, 255);       /* garis tepi merah */
   background: rgb(0, 0, 0);             /* isi kotak merah */
   color: white;                /* teks putih */
   padding: 8px 15px; 
@@ -169,4 +169,5 @@ nav ul li a {
 nav ul li a:hover {
   text-decoration: underline;
 }
+
 
